@@ -1,4 +1,10 @@
-Client Side Pagination and Server Side Paginations:
+<header>
+
+
+_Client Side Pagination and Server Side Paginations:_
+
+</header>
+
 
 The Best UX design pattern for the displaying large amount of data:
 1)Pagination:
