@@ -1,14 +1,10 @@
 <header>
-
-## Step 2: Configure your site
-_Client Side Pagination and Server Side Paginations:_
-
+## Client Side Pagination and Server Side Paginations
 </header>
 
-## Step 2: Configure your site
 
+##The Best UX design pattern for the displaying large amount of data:
 
-The Best UX design pattern for the displaying large amount of data:
 1)Pagination:
 2)Load More:
 3)infinite Scroll:
