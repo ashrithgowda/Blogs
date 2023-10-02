@@ -1,9 +1,11 @@
 <header>
 
-
+## Step 2: Configure your site
 _Client Side Pagination and Server Side Paginations:_
 
 </header>
+
+## Step 2: Configure your site
 
 
 The Best UX design pattern for the displaying large amount of data:
