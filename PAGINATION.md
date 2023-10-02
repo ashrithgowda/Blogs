@@ -1,13 +1,10 @@
-<header>
-## Client Side Pagination and Server Side Paginations
-</header>
+Client Side Pagination and Server Side Paginations
 
+The Best UX design pattern for the displaying large amount of data:
 
-##The Best UX design pattern for the displaying large amount of data:
-
-1)Pagination:
-2)Load More:
-3)infinite Scroll:
+1)Pagination:<br/>
+2)Load More:<br/>
+3)infinite Scroll:<br/>
 
 1)Pagination is the process of displaying requested data set into several pages (or chunks) to improve page performance.
 Where a user can use links such as "next", "previous", and page numbers to navigate between pages that display one page of results at a time.
